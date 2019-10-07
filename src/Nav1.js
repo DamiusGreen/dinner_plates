@@ -89,7 +89,7 @@ dropToggle() {
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Bowls</a>
+                          <a href="https://damiusgreen.github.io/bowls/" >Bowls</a>
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
