@@ -70,7 +70,7 @@ dropToggle() {
 
             <Nav className="ml-auto stickybar" navbar >
               <NavItem>
-                <NavLink className="nav-hover" href="https://damiusgreen.github.io/ecommerce_site/" style={{ textDecoration: 'none' },{color: "black"}}>Home</NavLink>
+                <NavLink className="nav-hover" href="https://damiusgreen.github.io/dinnerware_sets/" style={{ textDecoration: 'none' },{color: "black"}}>Home</NavLink>
               </NavItem>
               <DropdownItem divider />
               <NavItem>
@@ -81,11 +81,11 @@ dropToggle() {
                   </DropdownToggle>
                   <DropdownMenu right>
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="https://damiusgreen.github.io/dinnerware_sets/#/" >Dinnerware Sets</a>
+                          <a href="https://damiusgreen.github.io/dinnerware_sets/" >Dinnerware Sets</a>
                       </DropdownItem >
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Dinner Plates</a>
+                          <a href="https://damiusgreen.github.io/dinner_plates/#/" >Dinner Plates</a>
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
@@ -93,7 +93,7 @@ dropToggle() {
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Mugs</a>
+                          <a href="https://damiusgreen.github.io/mugs/#/" >Mugs</a>
                       </DropdownItem>
                   </DropdownMenu>
               </UncontrolledDropdown>
@@ -109,19 +109,19 @@ dropToggle() {
                   </DropdownToggle>
                   <DropdownMenu right >
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Slow Cookers</a>
+                          <a href="https://damiusgreen.github.io/slow_cookers/#/" >Slow Cookers</a>
                       </DropdownItem >
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Microwaves</a>
+                          <a href="https://damiusgreen.github.io/microwaves/#/" >Microwaves</a>
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Blenders</a>
+                          <a href="https://damiusgreen.github.io/blenders/#/" >Blenders</a>
                       </DropdownItem>
                     <DropdownItem divider />
                       <DropdownItem toggle={false} className="dropdown-link">
-                          <a href="#" >Toasters & Toaster Ovens</a>
+                          <a href="https://damiusgreen.github.io/toasters/#/" >Toasters & Toaster Ovens</a>
                       </DropdownItem>
                   </DropdownMenu>
               </UncontrolledDropdown>
@@ -135,15 +135,15 @@ dropToggle() {
                 </DropdownToggle>
                 <DropdownMenu right>
                   <DropdownItem toggle={false} className="dropdown-link">
-                      <a href="#" >Cookware Sets</a>
+                      <a href="https://damiusgreen.github.io/cookware/#/" >Cookware Sets</a>
                   </DropdownItem >
                 <DropdownItem divider />
                   <DropdownItem toggle={false} className="dropdown-link">
-                      <a href="#" >Roasting Pans</a>
+                      <a href="https://damiusgreen.github.io/roasting_pans/#/" >Roasting Pans</a>
                   </DropdownItem>
                 <DropdownItem divider />
                   <DropdownItem toggle={false} className="dropdown-link">
-                      <a href="#" >Woks</a>
+                      <a href="https://damiusgreen.github.io/woks/#/" >Woks</a>
                   </DropdownItem>
 
                   </DropdownMenu>
