@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinner_plates/static/css/main.6587be9e.chunk.css",
+    "main.js": "/dinner_plates/static/js/main.05341466.chunk.js",
+    "main.js.map": "/dinner_plates/static/js/main.05341466.chunk.js.map",
+    "runtime~main.js": "/dinner_plates/static/js/runtime~main.25e1ad13.js",
+    "runtime~main.js.map": "/dinner_plates/static/js/runtime~main.25e1ad13.js.map",
+    "static/js/2.25b1c4fe.chunk.js": "/dinner_plates/static/js/2.25b1c4fe.chunk.js",
+    "static/js/2.25b1c4fe.chunk.js.map": "/dinner_plates/static/js/2.25b1c4fe.chunk.js.map",
+    "index.html": "/dinner_plates/index.html",
+    "precache-manifest.4e1eed2d241fc34ae431b6698029a36b.js": "/dinner_plates/precache-manifest.4e1eed2d241fc34ae431b6698029a36b.js",
+    "service-worker.js": "/dinner_plates/service-worker.js",
+    "static/css/main.6587be9e.chunk.css.map": "/dinner_plates/static/css/main.6587be9e.chunk.css.map"
+  }
+}
